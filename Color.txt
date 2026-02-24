@@ -1,5 +1,5 @@
-1. blue
+1. Blue
 2. Yellow
-3. green
-4. purple
+3. Green
+4. Purple
 5. DarkGray
