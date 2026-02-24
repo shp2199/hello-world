@@ -1,4 +1,5 @@
-1. pupple
-2. green
-3. yellow
-4. blue
+1. blue
+2. yellow
+3. green
+4. purple
+5. DarkGray
