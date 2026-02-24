@@ -2,4 +2,4 @@
 2. yellow
 3. blue
 4. purple
-6. pink
+5. DarkGray
